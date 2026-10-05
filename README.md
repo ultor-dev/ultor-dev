@@ -1,6 +1,4 @@
-<h1 align="center">🐉 ultor-dev</h1>
-
-<p align="center">Software developer · C#, C++, Python, TypeScript</p>
+<h1 align="center">🐉 ultor-dev / experienced coder </h1>
 
 ## Tech stack
 
