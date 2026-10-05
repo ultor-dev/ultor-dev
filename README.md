@@ -1,16 +1,35 @@
-## Hi, I'm Ultor 👋
+<h1 align="center">🐉 ultor-dev</h1>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ultor-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ultor-dev&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ultor-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">Software developer · C#, C++, Python, TypeScript</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ultor-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Tech stack
 
----
-[![](https://visitcount.itsvg.in/api?id=ultor-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,svelte,react,redux,sass" alt="Languages and frontend: C#, C++, Python, JavaScript, TypeScript, Svelte, React, Redux, Sass" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,nginx,postgres,mysql" alt="Tools and databases: Git, GitHub Actions, Nginx, PostgreSQL, MySQL" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,pycharm" alt="Editors: VS Code, Visual Studio, Neovim, PyCharm" />
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ultor-dev&theme=radical&show_icons=true&hide_border=true" alt="GitHub stats for ultor-dev" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=ultor-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies for ultor-dev" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ultor-dev/ultor-dev/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ultor-dev/ultor-dev/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/ultor-dev/ultor-dev/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
